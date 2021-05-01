@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Bar Servers Quiz &gt;&gt; </name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>0</numrandom>
+<passinggrade>80</passinggrade>
+<cancelfail>completion_module_incomplete.html</cancelfail>
+<passdone>completion_module_completion.html</passdone>
+<prevpage>glossary_glossary.html</prevpage>
+<page>
+<index>0</index>
+<name>bar_servers_quiz_quizwelcome.html</name>
+</page>
+<section>
+<index>1</index>
+<id>14726</id>
+<numrandom>0</numrandom>
+<page>
+<index>1</index>
+<name>bar_servers_quiz_daily_tasks_question_1.html</name>
+<question>
+<id>13065</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0001</var>
+<text>From the list below, check ALL that applies to your Uniform to \r"Look the Part."</text>
+<correctans>Be pressed,Shoes Polished,Fit properly</correctans>
+<choices>Put on your apron|Be pressed|Shoes Polished|Fit properly|Right Length</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>bar_servers_quiz_daily_tasks_question_2.html</name>
+<question>
+<id>13078</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0002</var>
+<text>From the list below, check ALL that would be a Tool of your Trade?</text>
+<correctans>Check presenter,Bottle Opener,Pen light,Working lighter,Daily Cruise Compass schedule</correctans>
+<choices>Orange Towel|Bar Caddy|Check presenter|Bottle Opener|Pen light|Working lighter|Daily Cruise Compass schedule</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>3</index>
+<name>bar_servers_quiz_daily_tasks_question_3.html</name>
+<question>
+<id>14638</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0003</var>
+<text>Is the following statement true or false?\r\r      When delivering the \u201CWOW\u201D to every guest, when working the bar you may be asked to:\r\r        1.  Ensure that all furniture is clean and chairs are pushed straight up against the table or counter. \r        2.  Check that the floor is free of debris. \r        3.  Room temperature and entertainment sound levels are comfortable and appropriate. \r        4.  Bar menus are clean and strategically placed.</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>4</index>
+<name>bar_servers_quiz_daily_tasks_question_4.html</name>
+<question>
+<id>14648</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0004</var>
+<text>What solution do you sanitize with?</text>
+<correctans>Oxivir</correctans>
+<choices>Lysol|Bleach|Bathroom cleaner|Oxivir</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>5</index>
+<name>bar_servers_quiz_daily_tasks_question_5.html</name>
+<question>
+<id>14661</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0005</var>
+<text>When sanitizing your station, how many times should you wash your hands?</text>
+<correctans>2  times</correctans>
+<choices>6 times|2  times|10 times|11 times</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>6</index>
+<name>bar_servers_quiz_daily_tasks_question_6.html</name>
+<question>
+<id>14674</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 6</name>
+<var>VarQuestion_0006</var>
+<text>When preparing to sanitize your work area, which color bucket should you use?</text>
+<correctans>White</correctans>
+<choices>Orange|Grey|Red|White</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>7</index>
+<name>bar_servers_quiz_daily_tasks_question_7.html</name>
+<question>
+<id>14686</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 7</name>
+<var>VarQuestion_0007</var>
+<text>Is the following statement true or false? \r\r     When stocking your bar caddy, you must fill it, as needed, with straws, napkins, picks, \r     stirrers, and umbrellas.</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>8</index>
+<name>bar_servers_quiz_daily_tasks_question_8.html</name>
+<question>
+<id>14696</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 8</name>
+<var>VarQuestion_0008</var>
+<text>From the list below, select ALL actions that are required for \rTable and Bar Setup:</text>
+<correctans>Bar caddies are stocked,Make sure chairs and table are aligned,Promotional materials should be on display,Garnish trays are prepped, iced, dated, and have tongs ready for use</correctans>
+<choices>Ice buckets are filled|Bar caddies are stocked|Make sure chairs and table are aligned|Mop the floor twice|Promotional materials should be on display|Garnish trays are prepped, iced, dated, and have tongs ready for use</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>9</index>
+<name>bar_servers_quiz_daily_tasks_question_9.html</name>
+<question>
+<id>14713</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 9</name>
+<var>VarQuestion_0009</var>
+<text>When closing down the bar, how is the mixers labeled?</text>
+<correctans>Name of mix, date opened, and expiration date</correctans>
+<choices>Types of drinks to make with mixer|Name of mix, date opened, and expiration date|Brand of mixer|Who opened the mixer</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+</section>
+<section>
+<index>10</index>
+<id>14729</id>
+<numrandom>0</numrandom>
+<page>
+<index>10</index>
+<name>bar_servers_quiz_mixology_question_10.html</name>
+<question>
+<id>14777</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 10</name>
+<var>VarQuestion_0010</var>
+<text>Is the following statement true or false?\r\r      The definition of Mixology is: \u201CThe art or skill of preparing a bar for operation.\u201D</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>11</index>
+<name>bar_servers_quiz_mixology_question_11.html</name>
+<question>
+<id>14751</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 11</name>
+<var>VarQuestion_0011</var>
+<text>Which drink is not made using the Spindle mixer technique?</text>
+<correctans>Frozen Margarita</correctans>
+<choices>Frozen Margarita|Rum Punch|Singapore Sling|Margarita on the Rocks</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>12</index>
+<name>bar_servers_quiz_mixology_question_12.html</name>
+<question>
+<id>14764</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 12</name>
+<var>VarQuestion_0012</var>
+<text>Is the following sentence true or false?\r\r      While, using the Stir &amp; Strain and Shake &amp; Strain techniques, if the drink is served in a\r      Martini Glass you must chill the Glass first. </text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>13</index>
+<name>bar_servers_quiz_mixology_question_13.html</name>
+<question>
+<id>14732</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 13</name>
+<var>VarQuestion_0013</var>
+<text>From the list below, check ALL steps required in the \rBottle Pouring Technique:</text>
+<correctans>Flag the spout properly \u2013 curved to the left with the bottle\u2019s label facing you,Grab the bottle, by the neck, firmly,Quickly turn the bottle to the 1:00 o\u2019clock position to begin the pour,Use the counting technique to deliver the proper amount of liquor \u2013 1/4 ounce per 1 count,Quickly rotate the bottle to stop the pour</correctans>
+<choices>Shake the bottle|Flag the spout properly \u2013 curved to the left with the bottle\u2019s label facing you|Grab the bottle, by the neck, firmly|Quickly turn the bottle to the 1:00 o\u2019clock position to begin the pour|Use the counting technique to deliver the proper amount of liquor \u2013 1/4 ounce per 1 count|Quickly rotate the bottle to stop the pour|Remove label </choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>14</index>
+<name>bar_servers_quiz_mixology_question_14.html</name>
+<question>
+<id>14786</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 14</name>
+<var>VarQuestion_0014</var>
+<text>When pouring a draft beer, which steps do, you follow. </text>
+<correctans>All of the above</correctans>
+<choices>Hold the glass, slightly touching the tap, at a 45 degree angle|Quickly pull the tap handle all the way down|Straighten the glass as it fills|Quickly return the tap to the closed position while lowering the glass away from the tap|All of the above</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>15</index>
+<name>bar_servers_quiz_mixology_question_15.html</name>
+<question>
+<id>14801</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 15</name>
+<var>VarQuestion_0015</var>
+<text>From the list below, check ALL tools that are required for Garnish preparation.</text>
+<correctans>Disposable gloves,Knife,Cutting board,Orange bar cloth</correctans>
+<choices>Mixing tin|Disposable gloves|Blender |Knife|Cutting board|Orange bar cloth</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>16</index>
+<name>bar_servers_quiz_mixology_question_16.html</name>
+<question>
+<id>14817</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 16</name>
+<var>VarQuestion_0016</var>
+<text>How long should your sanitized knife and cutting board dry prior to use?</text>
+<correctans>10 minutes</correctans>
+<choices>25 minutes|35 minutes|5 minutes|10 minutes</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>17</index>
+<name>bar_servers_quiz_mixology_question_17.html</name>
+<question>
+<id>14829</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 17</name>
+<var>VarQuestion_0017</var>
+<text>Orange wedges should be cut in, which way?</text>
+<correctans>8ths</correctans>
+<choices>Peeled first then cut|Quarters|10 Slices|8ths</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+</section>
+<section>
+<index>18</index>
+<id>15089</id>
+<numrandom>0</numrandom>
+<page>
+<index>18</index>
+<name>bar_servers_quiz_service_standards_question_18.html</name>
+<question>
+<id>14841</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 18</name>
+<var>VarQuestion_0018</var>
+<text>When approaching guests to offer service you should. </text>
+<correctans>Wait for the right moment, while making eye contact and extending a warm welcome</correctans>
+<choices>Interrupt their conversation, while making eye contact|Walk away if they are talking|Don\u2019t interrupt them, but look away|Wait for the right moment, while making eye contact and extending a warm welcome</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>19</index>
+<name>bar_servers_quiz_service_standards_question_19.html</name>
+<question>
+<id>14853</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 19</name>
+<var>VarQuestion_0019</var>
+<text>Is the following statement true or false?\r\r      Use the Guest\u2019s SeaPass to learn their name</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>20</index>
+<name>bar_servers_quiz_service_standards_question_20.html</name>
+<question>
+<id>14861</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 20</name>
+<var>VarQuestion_0020</var>
+<text>In the list below, select ALL appropriate steps you should use, while taking a Guests order</text>
+<correctans>Look for the opportunity up-sell beverages,Take order starting with women first,Check guests ID in compliance with Alcohol policy</correctans>
+<choices>Look for the opportunity up-sell beverages|Take order starting with men first|Take order starting with women first|Check guests ID in compliance with Alcohol policy|Serve guests who appear to be intoxicated|Repeat each guest\u2019s order for accuracy</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>21</index>
+<name>bar_servers_quiz_service_standards_question_21.html</name>
+<question>
+<id>14877</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 21</name>
+<var>VarQuestion_0021</var>
+<text>Is the following statement true or false?\r\r     When processing an order, ask for the Guest\u2019s SeaPass card with the first drink order. Before \r     returning with the Guest\u2019s order make sure the check is rung accurately and the drinks\r     themselves, are prepared to the Fleetwide Recipe Guide. </text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>22</index>
+<name>bar_servers_quiz_service_standards_question_22.html</name>
+<question>
+<id>14885</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 22</name>
+<var>VarQuestion_0022</var>
+<text>What should you do when a guest is leaving your area? </text>
+<correctans>Take the opportunity to give a sincere and personalized farewell. Then clean and sanitize the table and reset the seats</correctans>
+<choices>Leave the dirty glasses, in hopes someone else will clean|Shake their hand |Take the opportunity to give a sincere and personalized farewell. Then clean and sanitize the table and reset the seats|Don\u2019t give them a farewell</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>23</index>
+<name>bar_servers_quiz_service_standards_question_23.html</name>
+<question>
+<id>14897</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 23</name>
+<var>VarQuestion_0023</var>
+<text>How empty should your guests\u2019 glass be before returning to ask if they would like another?</text>
+<correctans>2/3 of the glass is empty</correctans>
+<choices>Completely empty|1/4 of the glass is empty|3/4  of the glass is empty|2/3 of the glass is empty</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>24</index>
+<name>bar_servers_quiz_service_standards_question_24.html</name>
+<question>
+<id>14909</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 24</name>
+<var>VarQuestion_0024</var>
+<text>From the list below, check ALL steps you should follow, to ensure the guest does not leave unhappy?</text>
+<correctans>Start with an apology,Try to find the cause of the problem,Offer a resolution</correctans>
+<choices>Ignore the problem|Tell them there is nothing wrong|Start with an apology|Try to find the cause of the problem|Offer a resolution</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+</section>
+<section>
+<index>25</index>
+<id>15092</id>
+<numrandom>0</numrandom>
+<page>
+<index>25</index>
+<name>bar_servers_quiz_public_health_usph_question_25.html</name>
+<question>
+<id>14923</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 25</name>
+<var>VarQuestion_0025</var>
+<text>What does the term ABC mean, when adhering to USPH, (United States Public Health) standards?</text>
+<correctans>Above and Beyond Compliance</correctans>
+<choices>At a glance, Bar Service, and Compliance|Above and Beyond Compliance|Accurate and Believable Compliance|Astounding and Believable Certification</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>26</index>
+<name>bar_servers_quiz_public_health_usph_question_26.html</name>
+<question>
+<id>14935</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 26</name>
+<var>VarQuestion_0026</var>
+<text>Is the following statement true or false?\r\r	USPH is an option depending on your department.</text>
+<correctans>False</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>27</index>
+<name>bar_servers_quiz_public_health_usph_question_27.html</name>
+<question>
+<id>14943</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 27</name>
+<var>VarQuestion_0027</var>
+<text>HACCP stands for Hazard Analysis Critical Control Point &amp; Cross Contamination, what does this process ensure?</text>
+<correctans>Where WE identify and eliminate potentially hazardous conditions for Guests</correctans>
+<choices>Creates hazardous conditions for the Guests|Where WE identify and eliminate potentially hazardous conditions for Guests|Allows the Guests to eliminate hazardous conditions|Where the Sanitation department controls contamination</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>28</index>
+<name>bar_servers_quiz_public_health_usph_question_28.html</name>
+<question>
+<id>14955</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 28</name>
+<var>VarQuestion_0028</var>
+<text>USPH (United States Public Health) department sets wide-ranging standards. From the list below, what are the THREE main components of USPH? </text>
+<correctans>People: this includes personal hygiene such as daily showering, clean uniform, and proper had washing,Equipment: Proper washing, sanitizing, and storage. This also includes chemicals,Food: How it is received, stored and prepared</correctans>
+<choices>People: this includes personal hygiene such as daily showering, clean uniform, and proper had washing|Pets: this includes proper washing, caging, and training|Equipment: Proper washing, sanitizing, and storage. This also includes chemicals|Food: How it is received, stored and prepared</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>29</index>
+<name>bar_servers_quiz_public_health_usph_question_29.html</name>
+<question>
+<id>14967</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 29</name>
+<var>VarQuestion_0029</var>
+<text>When cleaning the bar during your closing shift, all equipment must be cleaned using the three-bucket system. What equipment is required to prepare your three buckets?</text>
+<correctans>Bleach, Disposable cloth, Test strips, Gloves, and Soap</correctans>
+<choices>Window cleaner, Cloth, and Squeegee|Bleach, Disposable cloth, Test strips, Gloves, and Soap|Mop, Bucket, Floor Cleaner, and Polish|Straws, Napkins, Picks, stirrers, and umbrellas</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>30</index>
+<name>bar_servers_quiz_public_health_usph_question_30.html</name>
+<question>
+<id>15019</id>
+<type>6</type>
+<weight>1</weight>
+<name>Question 30</name>
+<var>VarQuestion_0030</var>
+<text>With the three colors of buckets below, match action to the correct bucket by clicking the action text then the corresponding bucket.</text>
+<correctans>1-1,2-2,3-3</correctans>
+<choices>1-A|2-B|3-C</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>31</index>
+<name>bar_servers_quiz_public_health_usph_question_31.html</name>
+<question>
+<id>15049</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 31</name>
+<var>VarQuestion_0031</var>
+<text>We must ensure that our team washes their hands to prevent the transmission of contaminants throughout the day. How many times should you wash your hands?</text>
+<correctans>As often as possible</correctans>
+<choices>Once per day|As often as possible|2 times per day|4 Times per day</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+<page>
+<index>32</index>
+<name>bar_servers_quiz_public_health_usph_question_32.html</name>
+<question>
+<id>15061</id>
+<type>1</type>
+<weight>1</weight>
+<name>Question 32</name>
+<var>VarQuestion_0032</var>
+<text>Is the following statement true or false?\r\r      For chemicals that are used throughout the ship, you should consult the Materials Safety\r      Data Sheet (MSDS) to determine the hazards, handling, storing, and Personal Protective \r      Equipment (PPE) for each product.</text>
+<correctans>True</correctans>
+<choices>True|False</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+</question>
+</page>
+</section>
+</lectoratest>
